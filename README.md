@@ -7,6 +7,6 @@ Additions include the ability to email the quote PDF and the ability to view exi
 
 Added functionality implemented by:
 
--dcollins88
--jbawgs
--madisonrawles
+- dcollins88
+- jbawgs
+- madisonrawles
