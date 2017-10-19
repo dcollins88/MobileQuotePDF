@@ -10,3 +10,6 @@ Added functionality implemented by:
 - dcollins88
 - jbawgs
 - madisonrawles
+
+
+Package can be installed from https://login.salesforce.com/packaging/installPackage.apexp?p0=04t1I000001Kihk
