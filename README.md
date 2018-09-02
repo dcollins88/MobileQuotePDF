@@ -13,3 +13,8 @@ Added functionality implemented by:
 
 
 Package can be installed from https://login.salesforce.com/packaging/installPackage.apexp?p0=04t1I000001Kihk
+
+or deployed directly to your Salesforce org via <a href="https://githubsfdeploy.herokuapp.com?owner=dcollins88&repo=MobileQuotePDF&ref=master">
+  <img alt="Deploy to Salesforce"
+       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
+</a>
