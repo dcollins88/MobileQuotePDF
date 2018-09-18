@@ -12,4 +12,4 @@ Added functionality implemented by:
 - madisonrawles
 
 
-Package can be installed from https://login.salesforce.com/packaging/installPackage.apexp?p0=04t1I000001KiyQ
+Package can be installed from https://login.salesforce.com/packaging/installPackage.apexp?p0=04t1I000001KiyQ and set up can viewed at https://youtu.be/l8Ilsz4-Wf0
